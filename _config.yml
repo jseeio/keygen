@@ -1,1 +1,3 @@
 remote_theme: jseeio/minima
+port_schema: 'schema.json'
+port_runtime: true
