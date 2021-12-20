@@ -1,13 +1,9 @@
 title: "keygen"
 
-author:
-  name: "zemlyansky"
-  email: "anton.zemlyansky@gmail.com"
-
 minima:
   social_links:
-    twitter: zemlyansky
-    github:  zemlyansky
+    twitter: jseeio
+    github:  jseeio
 
 remote_theme: "jseeio/minima"
 
