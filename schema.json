@@ -2,7 +2,6 @@
   "model": {
     "name": "keygen",
     "type": "async-function",
-    "description": "Generates a key",
     "url": "index.js",
 		"worker": false,
     "autorun": false
