@@ -7,6 +7,6 @@ minima:
 
 remote_theme: "jseeio/minima"
 
-port_version: "0.2.0"
+port_version: "0.2"
 port_schema: "schema.json"
 port_runtime: true
