@@ -7,6 +7,11 @@ minima:
 
 remote_theme: "jseeio/minima"
 
-port_version: "0.2"
-port_schema: "schema.json"
-port_runtime: true
+logo_footer:
+  src: https://jsee.io/assets/jsee_logo.svg
+  href: https://jsee.io/
+  width: 50
+
+jsee_version: "0.2"
+jsee_schema: "schema.json"
+jsee_runtime: true
