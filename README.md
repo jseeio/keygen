@@ -1,4 +1,4 @@
-# Generate public and private RSA keys online
+# Generate RSA keys online (public and private)
 
 `keygen` uses [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API) under the hood for public-key cryptography. 
 100% browser-side. Built with [JSEE](https://jsee.org).

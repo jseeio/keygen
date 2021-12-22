@@ -13,6 +13,8 @@ logo_footer:
   href: https://jsee.io/
   width: 50
 
+google_analytics: "G-SBCKCNFKBF"
+
 jsee_version: "0.2"
 jsee_schema: "schema.json"
 jsee_runtime: true
