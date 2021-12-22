@@ -3,12 +3,13 @@ title: "keygen"
 minima:
   social_links:
     twitter: jseeio
-    github:  jseeio
+    facebook: jseeio
+    github: jseeio/keygen
 
 remote_theme: "jseeio/minima"
 
 logo_footer:
-  src: https://jsee.io/assets/jsee_logo.svg
+  src: https://jsee.io/design/jsee_logo.svg
   href: https://jsee.io/
   width: 50
 
